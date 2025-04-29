@@ -1,6 +1,6 @@
-package com.example.spring_thymeleaf_lab.controllers;
+package com.example.springthymeleaflab1.controllers;
 
-import com.example.spring_thymeleaf_lab.models.Student;
+import com.example.springthymeleaflab1.models.Student;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
